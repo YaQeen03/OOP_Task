@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.exe
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.deps.json
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.dll
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.pdb
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.sourcelink.json
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.dll
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\refint\BankAccount.dll
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.pdb
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\BankAccount\BankAccount\obj\Debug\net10.0\ref\BankAccount.dll
