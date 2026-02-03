@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\bin\Debug\net10.0\Project_OPP.exe
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\bin\Debug\net10.0\Project_OPP.deps.json
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\bin\Debug\net10.0\Project_OPP.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\bin\Debug\net10.0\Project_OPP.dll
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\bin\Debug\net10.0\Project_OPP.pdb
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.sourcelink.json
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.dll
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\refint\Project_OPP.dll
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.pdb
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\Project_OPP.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\ORG\opp\OOP_Task\Project_OPP\Project_OPP\obj\Debug\net10.0\ref\Project_OPP.dll
